@@ -1,4 +1,5 @@
 # Multi-Zone Network Routing Configuration
+![Network Diagram](./Topology.png)
 
 ### **Project Overview**
 This project demonstrates the design and implementation of a multi-zone network infrastructure using dynamic routing protocols such as OSPF, EIGRP, and RIPv2. The network consists of various branches distributed across different geographical zones, all interconnected through a central headquarters (HQ) in Coimbra.
