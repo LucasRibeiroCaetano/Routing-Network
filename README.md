@@ -83,7 +83,7 @@ Connectivity has been validated across all branches through successful pings fro
 ## **Installation and Setup**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Multi-Zone-Network-Routing.git
+   git clone https://github.com/LucasRibeiroCaetano/Multi-Zone-Network-Routing.git
    ```
 
 2. **Import gns3 portable project**: Download the Gns3 protable project file and import it to gns3 in order to run the topology. 
